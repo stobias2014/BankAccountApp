@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.insufficientFunds {
+	color: red;
+}
+
+.accountDoesNotExist {
+	color: red;
+}
